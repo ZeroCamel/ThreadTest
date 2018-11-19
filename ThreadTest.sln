@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadTest", "ThreadTest\ThreadTest.csproj", "{5D66076B-63D8-46B8-8CEA-756330D9E5D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutilThreadTest", "MutilThreadTest\MutilThreadTest.csproj", "{6942AD41-9D32-47C8-A9FB-49F3B9324849}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadPoolTest", "ThreadPoolTest\ThreadPoolTest.csproj", "{BED6F8EF-E0FD-40B1-A57F-5871F7DB5B11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadTaskTest", "ThreadTaskTest\ThreadTaskTest.csproj", "{F11C0AF8-AAB7-48C7-87CD-6B987500273C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynThreadTest", "AsynThreadTest\AsynThreadTest.csproj", "{8A92E533-B85E-4D39-935B-52B550B273C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncMutilThreadTest", "AsyncMutilThreadTest\AsyncMutilThreadTest.csproj", "{A4C4426A-548B-4BDF-9133-C7AF23581445}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadPoolTest2", "ThreadPoolTest2\ThreadPoolTest2.csproj", "{BAD272F1-F354-4969-B431-98466D8978ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D66076B-63D8-46B8-8CEA-756330D9E5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D66076B-63D8-46B8-8CEA-756330D9E5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D66076B-63D8-46B8-8CEA-756330D9E5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D66076B-63D8-46B8-8CEA-756330D9E5D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6942AD41-9D32-47C8-A9FB-49F3B9324849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6942AD41-9D32-47C8-A9FB-49F3B9324849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6942AD41-9D32-47C8-A9FB-49F3B9324849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6942AD41-9D32-47C8-A9FB-49F3B9324849}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BED6F8EF-E0FD-40B1-A57F-5871F7DB5B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED6F8EF-E0FD-40B1-A57F-5871F7DB5B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED6F8EF-E0FD-40B1-A57F-5871F7DB5B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED6F8EF-E0FD-40B1-A57F-5871F7DB5B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F11C0AF8-AAB7-48C7-87CD-6B987500273C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11C0AF8-AAB7-48C7-87CD-6B987500273C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11C0AF8-AAB7-48C7-87CD-6B987500273C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11C0AF8-AAB7-48C7-87CD-6B987500273C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A92E533-B85E-4D39-935B-52B550B273C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A92E533-B85E-4D39-935B-52B550B273C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A92E533-B85E-4D39-935B-52B550B273C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A92E533-B85E-4D39-935B-52B550B273C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C4426A-548B-4BDF-9133-C7AF23581445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C4426A-548B-4BDF-9133-C7AF23581445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C4426A-548B-4BDF-9133-C7AF23581445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C4426A-548B-4BDF-9133-C7AF23581445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAD272F1-F354-4969-B431-98466D8978ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD272F1-F354-4969-B431-98466D8978ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD272F1-F354-4969-B431-98466D8978ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD272F1-F354-4969-B431-98466D8978ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
